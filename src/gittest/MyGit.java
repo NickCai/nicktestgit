@@ -6,6 +6,8 @@ public class MyGit {
 		
 		
 		System.out.println("make different");
+		
+		System.out.println("make different2");
 	}
 
 }
